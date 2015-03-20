@@ -1,0 +1,27 @@
+{
+  "name": "lodash-no-amd",
+  "version": "0.1.0",
+  "description": "Lodash without the AMD loader code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://robhicks@github.com/robhicks/lodash-no-amd.git"
+  },
+  "keywords": [
+    "lodash",
+    "amd",
+    "familysearch",
+    "asset",
+    "manager"
+  ],
+  "author": "Rob Hicks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robhicks/lodash-no-amd/issues"
+  },
+  "homepage": "https://github.com/robhicks/lodash-no-amd",
+  "dependencies": {}
+}
